@@ -15,3 +15,5 @@ the last (10) is the output layer as we have 0-9 digits.
 
 The dataset is from kaggle compititions. You can get the data form the following link:
 https://www.kaggle.com/c/digit-recognizer/data
+
+For capturing the image we can use the camera_capture.ipynb and the results will be in the capture_0.png
